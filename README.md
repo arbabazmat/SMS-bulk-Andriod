@@ -1,3 +1,3 @@
 # smsbulk
-This following app is for andriod smart phone.
+This following app is for android smart phone.
 Developed using java.
